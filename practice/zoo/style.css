@@ -1,0 +1,36 @@
+
+body{
+	background-color:LemonChiffon:
+}
+table, th, tr, td{
+	border: 1px black solid;
+	border-collapse: collapse;
+}
+.big{
+font-size:2em;
+}
+.orange{
+	
+	background-color:orange;
+}
+#six-seven{
+	font-size:0.67em;
+}
+nav ul {
+	display: flex;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	justify-content: space-around;
+	
+	
+	
+	
+}
+nav ul li a {
+	text-decoration: none;
+	background-color:grey;
+	padding: 10px 20px;
+	border: 2px black solid;
+	border-radius: 5px;
+	color:black;
